@@ -1,1 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Sans+MS&display=swap');
+
+
 @import "tailwindcss";
+
+.font-comic {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
